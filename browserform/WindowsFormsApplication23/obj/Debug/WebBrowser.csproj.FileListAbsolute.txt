@@ -1,0 +1,9 @@
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\browserform\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\browserform\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\browserform\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\browserform\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form1.resources
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\browserform\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\browserform\WindowsFormsApplication23\obj\Debug\WebBrowser.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\browserform\WindowsFormsApplication23\obj\Debug\WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\browserform\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\browserform\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb

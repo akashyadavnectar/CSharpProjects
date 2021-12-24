@@ -1,0 +1,9 @@
+c:\users\faculty-ora\documents\visual studio 2013\Projects\Doodle\Doodle\bin\Debug\Doodle.exe.config
+c:\users\faculty-ora\documents\visual studio 2013\Projects\Doodle\Doodle\bin\Debug\Doodle.exe
+c:\users\faculty-ora\documents\visual studio 2013\Projects\Doodle\Doodle\bin\Debug\Doodle.pdb
+c:\users\faculty-ora\documents\visual studio 2013\Projects\Doodle\Doodle\obj\Debug\Doodle.csprojResolveAssemblyReference.cache
+c:\users\faculty-ora\documents\visual studio 2013\Projects\Doodle\Doodle\obj\Debug\Doodle.Form1.resources
+c:\users\faculty-ora\documents\visual studio 2013\Projects\Doodle\Doodle\obj\Debug\Doodle.Properties.Resources.resources
+c:\users\faculty-ora\documents\visual studio 2013\Projects\Doodle\Doodle\obj\Debug\Doodle.csproj.GenerateResource.Cache
+c:\users\faculty-ora\documents\visual studio 2013\Projects\Doodle\Doodle\obj\Debug\Doodle.exe
+c:\users\faculty-ora\documents\visual studio 2013\Projects\Doodle\Doodle\obj\Debug\Doodle.pdb

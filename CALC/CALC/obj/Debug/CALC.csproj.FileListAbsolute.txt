@@ -1,0 +1,9 @@
+c:\users\faculty-ora\documents\visual studio 2013\Projects\CALC\CALC\bin\Debug\CALC.exe.config
+c:\users\faculty-ora\documents\visual studio 2013\Projects\CALC\CALC\bin\Debug\CALC.exe
+c:\users\faculty-ora\documents\visual studio 2013\Projects\CALC\CALC\bin\Debug\CALC.pdb
+c:\users\faculty-ora\documents\visual studio 2013\Projects\CALC\CALC\obj\Debug\CALC.csprojResolveAssemblyReference.cache
+c:\users\faculty-ora\documents\visual studio 2013\Projects\CALC\CALC\obj\Debug\CALC.Form1.resources
+c:\users\faculty-ora\documents\visual studio 2013\Projects\CALC\CALC\obj\Debug\CALC.Properties.Resources.resources
+c:\users\faculty-ora\documents\visual studio 2013\Projects\CALC\CALC\obj\Debug\CALC.csproj.GenerateResource.Cache
+c:\users\faculty-ora\documents\visual studio 2013\Projects\CALC\CALC\obj\Debug\CALC.exe
+c:\users\faculty-ora\documents\visual studio 2013\Projects\CALC\CALC\obj\Debug\CALC.pdb

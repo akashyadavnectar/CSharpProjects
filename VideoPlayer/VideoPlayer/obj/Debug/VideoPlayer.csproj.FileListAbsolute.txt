@@ -1,0 +1,29 @@
+c:\users\faculty-ora\documents\visual studio 2013\Projects\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+c:\users\faculty-ora\documents\visual studio 2013\Projects\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+c:\users\faculty-ora\documents\visual studio 2013\Projects\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+c:\users\faculty-ora\documents\visual studio 2013\Projects\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+c:\users\faculty-ora\documents\visual studio 2013\Projects\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+c:\users\faculty-ora\documents\visual studio 2013\Projects\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojResolveAssemblyReference.cache
+c:\users\faculty-ora\documents\visual studio 2013\Projects\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+c:\users\faculty-ora\documents\visual studio 2013\Projects\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+c:\users\faculty-ora\documents\visual studio 2013\Projects\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+c:\users\faculty-ora\documents\visual studio 2013\Projects\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Form1.resources
+c:\users\faculty-ora\documents\visual studio 2013\Projects\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+c:\users\faculty-ora\documents\visual studio 2013\Projects\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.Cache
+c:\users\faculty-ora\documents\visual studio 2013\Projects\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+c:\users\faculty-ora\documents\visual studio 2013\Projects\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\VideoPlayer\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\VideoPlayer\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\VideoPlayer\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\VideoPlayer\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Form1.resources
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+C:\Users\acer\Downloads\c# projects and codes-20211025T073719Z-001\c# projects and codes\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
